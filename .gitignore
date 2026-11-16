@@ -1,0 +1,6 @@
+node_modules
+dist
+dist-server
+scripts/.cache
+.env
+*.log
